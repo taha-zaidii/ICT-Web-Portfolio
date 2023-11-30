@@ -36,13 +36,13 @@ body {
 
 body {
   /* background: var(--eerie_black); */
-  background: url(./heroSectionbg_2.png);
-  padding-top: 60px; /* Adjust this value to match the height of your navbar */
+  background: url(./Assets/heroSectionbg_2.png);
+  padding-top: 4rem; /* Adjust this value to match the height of your navbar */
   color: var(--honeydew);
 }
 
 .about-section {
-  /* background: url(./heroSectionbg_2.png); */
+  /* background: url(./Assets/heroSectionbg_2.png); */
   background-size: cover;
 }
 
@@ -63,7 +63,7 @@ body {
 
 .nav-logo {
     margin-top: 4.7rem;
-    background: url(./tzbrand-logo.png) no-repeat;
+    background: url(./Assets/tzbrand-logo.png) no-repeat;
     background-size: contain;
     padding: 3rem;
 }
@@ -247,7 +247,7 @@ a {
 .skills-details-span1 {
   font-size: 16px;
   font-weight: 400;
-  background: url(./Doodle-03-03.png) no-repeat;
+  background: url(./Assets/Doodle-03-03.png) no-repeat;
   background-size: 100%;
   background-position-x: 0px;
   background-position-y: -16px;
@@ -328,7 +328,7 @@ a {
 .portfolio-text1 {
   font-size: 16px;
   font-weight: 400;
-  background: url(./Doodle-03-03.png) no-repeat;
+  background: url(./Assets/Doodle-03-03.png) no-repeat;
   background-size: 100%;
   background-position-x: 0px;
   background-position-y: -33px;
@@ -529,7 +529,7 @@ a {
 
 .footer-logo {
     margin-top: 5.5rem;
-    background: url(./tzbrand-logo.png) no-repeat;
+    background: url(./Assets/tzbrand-logo.png) no-repeat;
     background-size: contain;
     padding: 4rem;
 }
@@ -581,7 +581,7 @@ a {
 .review-heading-text1 {
   font-size: 16px;
   font-weight: 400;
-  background: url(./Doodle-03-03.png) no-repeat;
+  background: url(./Assets/Doodle-03-03.png) no-repeat;
   background-size: 100%;
   background-position-x: 0px;
   background-position-y: -20px;
@@ -612,8 +612,8 @@ a {
 .review-image {
   overflow: hidden;
   background: linear-gradient(45deg, rgba(28, 28, 28, 0.5), rgba(255, 0, 0, 0)),
-    url("./review-image1.jpeg") no-repeat;
-  /* background: url("./review-image1.jpeg") no-repeat; */
+    url("./Assets/review-image1.jpeg") no-repeat;
+  /* background: url("./Assets/review-image1.jpeg") no-repeat; */
   background-size: cover;
   border-radius: 3rem;
   width: 1500px;
@@ -792,7 +792,7 @@ input {
 .contact-heading-text1 {
   font-size: 16px;
   font-weight: 400;
-  background: url(./Doodle-03-03.png) no-repeat;
+  background: url(./Assets/Doodle-03-03.png) no-repeat;
   background-size: 100%;
   background-position-x: 0px;
   background-position-y: -33px;
