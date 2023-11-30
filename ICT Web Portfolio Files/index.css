@@ -315,7 +315,9 @@ a {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background-color: var(--eerie_black);
+  /* background-color: var(--eerie_black); */
+  background: url(./Assets/normalSectionbg_2.png);
+  background-size: cover;
 }
 
 .portfolio-text-container {
@@ -673,7 +675,9 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--eerie_black);
+  /* background-color: var(--eerie_black); */
+  background: url(./Assets/normalSectionbg_2.png) no-repeat;
+  background-size: cover;
   height: 100vh;
   color: var(--honeydew);
 }

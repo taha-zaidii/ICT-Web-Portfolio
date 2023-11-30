@@ -40,7 +40,7 @@ window.addEventListener("scroll", function () {
   if (scrollPosition > window.innerHeight) {
     // adjust this value as needed
     navbar.style.backgroundImage = "none";
-    navbar.style.backgroundColor = "#1B1B1B";
+    navbar.style.backgroundColor = "#1B1B1B"; // sets color to eerie black
   } else {
     navbar.style.backgroundImage =
       "linear-gradient(to bottom, rgba(10, 10, 11, 1) 0%, rgba(10, 10, 11, 0) 100%)";
